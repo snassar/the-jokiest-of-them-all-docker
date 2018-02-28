@@ -1,0 +1,3 @@
+[submodule "app/app"]
+	path = app/app
+	url = https://github.com/snassar/the-jokiest-of-them-all-api
